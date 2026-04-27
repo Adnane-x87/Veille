@@ -11,6 +11,7 @@
 ## ✅ Tâches terminées
 
 - Tutoriel : Ubuntu  
+- Tutoriel : LAN & équipements
 
 ---
 
